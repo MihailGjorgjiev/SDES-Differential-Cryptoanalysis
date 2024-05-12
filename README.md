@@ -1,6 +1,6 @@
-# Project Name
+# Differential Cryptoanalysis of the S-DES algorithm
 
-Brief description of your project.
+Cryptography assignment to apply differential cryptoanalysis of the S-DES algorithm 
 
 ## Installation
 
